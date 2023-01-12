@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 8.0.1, 2023-01-11T15:07:23. -->
+<!-- Written by QtCreator 8.0.1, 2023-01-12T10:59:58. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -235,8 +235,9 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/koulu/syksy2022/olio_ohjelmointi/kotitehtava_1_2_isak_makimartti_tvt22spl/kotitehtava_1_2_isak_makimartti_tvt22spl.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/koulu/syksy2022/olio_ohjelmointi/kotitehtava_1_2_isak_makimartti_tvt22spl/kotitehtava_1_2_isak_makimartti_tvt22spl.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">kotitehtava_1_2_isak_makimartti_tvt22spl2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/koulu/kevät2023/olio_ohjelmointi_K2023/viikko_1/kotitehtava_1_2_isak_makimartti_tvt22spl/kotitehtava_1_2_isak_makimartti_tvt22spl.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/koulu/kevät2023/olio_ohjelmointi_K2023/viikko_1/kotitehtava_1_2_isak_makimartti_tvt22spl/kotitehtava_1_2_isak_makimartti_tvt22spl.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>

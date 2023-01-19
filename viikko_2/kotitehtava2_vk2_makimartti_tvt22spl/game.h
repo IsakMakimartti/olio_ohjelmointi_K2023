@@ -8,8 +8,7 @@ public:
 
     game(int); // Constructor
     ~game(); // Deconstructor
-    void play(); // Funktio, laitetaan peli pyöriin
-    int setNumber(); // Funktio, asetetaan maksimi nro
+    void play(); // Funktio, laitetaan peli pyöriin    
 
 private:
     // Muuttujat, Variables

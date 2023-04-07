@@ -29,3 +29,8 @@ win32: LIBS += -L$$PWD/../../group_5/frontend/NostoTalletusDLL/build/-/debug/ -l
 
 INCLUDEPATH += $$PWD/../../group_5/frontend/NostoTalletusDLL
 DEPENDPATH += $$PWD/../../group_5/frontend/NostoTalletusDLL
+
+win32: LIBS += -L$$PWD/../../group_5/frontend/NostoTalletusDLL/build/-/debug/ -lNostoTalletusDLL
+
+INCLUDEPATH += $$PWD/../../group_5/frontend/NostoTalletusDLL
+DEPENDPATH += $$PWD/../../group_5/frontend/NostoTalletusDLL
